@@ -1,0 +1,282 @@
+﻿ID;city;lat;lng;admin;capital;patrim;nomeavel
+1;Lisboa;38,716667;-9,133333;Lisboa;primary;Sim;Sim
+2;Picotos;41,192402;-8,619816;Porto;minor;Nao;Nao
+3;Braga;41,550323;-8,420052;Braga;admin;Sim;Sim
+5;Setubal;38,533333;-8,9;Setubal;admin;Nao;Sim
+6;Copeira;40,176915;-8,424018;Coimbra;minor;Nao;Nao
+8;Portimao;37,136636;-8,539796;Faro;minor;Nao;Nao
+9;evora;38,566667;-7,9;evora;admin;Sim;Sim
+10;Aveiro;40,644269;-8,645535;Aveiro;admin;Nao;Sim
+11;Leiria;39,747724;-8,804995;Leiria;admin;Nao;Nao
+12;Faro;37,019367;-7,932229;Faro;admin;Nao;Nao
+13;Beja;38,015064;-7,863227;Beja;admin;Nao;Nao
+14;Braganca;41,805817;-6,757189;Braganca;admin;Nao;Nao
+15;Castelo Branco;39,822191;-7,490869;Castelo Branco;admin;Nao;Nao
+16;Guarda;40,537328;-7,265749;Guarda;admin;Nao;Nao
+17;Santarem;39,233333;-8,683333;Santarem;admin;Nao;Nao
+18;Viseu;40,661014;-7,909714;Viseu;admin;Nao;Nao
+19;Covilha;40,286011;-7,503961;Castelo Branco;minor;Nao;Nao
+20;Vila Marim;41,304961;-7,779743;Vila Real;minor;Nao;Nao
+21;Portalegre;39,297178;-7,430151;Portalegre;admin;Nao;Nao
+22;Viana do Castelo;41,693234;-8,832869;Viana do Castelo;admin;Nao;Nao
+25;Lagos;37,101782;-8,674242;Faro;minor;Nao;Sim
+26;Paredes de Coura;41,910125;-8,560938;Viana do Castelo;minor;Nao;Nao
+27;Sao Joao da Pesqueira;41,148051;-7,404888;Viseu;minor;Nao;Nao
+28;Sao Joao da Madeira;40,900956;-8,499744;Aveiro;minor;Nao;Nao
+29;Fornos de Algodres;40,628072;-7,540638;Guarda;minor;Nao;Nao
+30;Castelo de Paiva;41,063007;-8,264696;Aveiro;minor;Nao;Nao
+31;Portel;38,30697;-7,702435;evora;minor;Nao;Sim
+32;Porto;41,149606;-8,610993;Porto;admin;Sim;Nao
+33;Serta;39,808461;-8,098829;Castelo Branco;minor;Nao;Nao
+34;Vila do Bispo;37,083172;-8,911438;Faro;minor;Nao;Nao
+35;Fronteira;39,056291;-7,648679;Portalegre;minor;Nao;Nao
+36;Alfandega da Fe;41,343149;-6,961124;Braganca;minor;Nao;Nao
+37;Celorico da Beira;40,637232;-7,39037;Guarda;minor;Nao;Nao
+38;Alcoutim;37,474317;-7,472282;Faro;minor;Nao;Nao
+39;Arronches;39,122417;-7,286192;Portalegre;minor;Nao;Nao
+40;Amarante;41,272711;-8,082455;Porto;minor;Nao;Nao
+41;Tabuaco;41,116147;-7,567934;Viseu;minor;Nao;Nao
+42;Gouveia;40,494455;-7,592145;Guarda;minor;Nao;Nao
+43;Aguiar da Beira;40,817264;-7,544307;Guarda;minor;Nao;Nao
+44;Idanha-a-Nova;39,923157;-7,240819;Castelo Branco;minor;Nao;Nao
+45;Ribeira de Pena;41,52147;-7,802372;Vila Real;minor;Nao;Nao
+46;Seia;40,415099;-7,708586;Guarda;minor;Nao;Nao
+47;Rio Maior;39,337325;-8,939063;Santarem;minor;Nao;Nao
+48;Condeixa-a-Nova;40,115733;-8,498336;Coimbra;minor;Nao;Nao
+49;Macao;39,555734;-7,994215;Santarem;minor;Nao;Nao
+50;Lousada;41,278223;-8,279926;Porto;minor;Nao;Nao
+51;Trancoso;40,783291;-7,350157;Guarda;minor;Nao;Nao
+52;Estarreja;40,756482;-8,572074;Aveiro;minor;Nao;Nao
+53;Moita;38,650779;-8,990383;Setubal;minor;Nao;Nao
+54;Ponte de Lima;41,767188;-8,583926;Viana do Castelo;minor;Nao;Nao
+55;Guimaraes;41,444435;-8,296189;Braga;minor;Sim;Sim
+56;Sobral de Monte Agraco;39,019579;-9,150809;Lisboa;minor;Nao;Nao
+57;Seixal;38,64008;-9,101412;Setubal;minor;Nao;Nao
+58;Almeirim;39,209028;-8,616426;Santarem;minor;Nao;Nao
+59;Cantanhede;40,346708;-8,594195;Coimbra;minor;Nao;Nao
+60;Elvas;38,881502;-7,162817;Portalegre;minor;Sim;Nao
+61;Ponte da Barca;41,804509;-8,415541;Viana do Castelo;minor;Nao;Nao
+62;Golega;39,40474;-8,48625;Santarem;minor;Nao;Nao
+63;Anadia;40,438409;-8,43352;Aveiro;minor;Nao;Nao
+64;Moura;38,140095;-7,44856;Beja;minor;Nao;Nao
+65;Avis;39,05391;-7,891556;Portalegre;minor;Nao;Nao
+66;agueda;40,577205;-8,444418;Aveiro;minor;Nao;Nao
+67;Valongo;41,195007;-8,51027;Porto;minor;Nao;Nao
+68;Caminha;41,874874;-8,837321;Viana do Castelo;minor;Nao;Nao
+69;Ourique;37,653897;-8,225687;Beja;minor;Nao;Nao
+70;Sardoal;39,535994;-8,161413;Santarem;minor;Nao;Nao
+71;Vila do Conde;41,354811;-8,743397;Porto;minor;Nao;Nao
+72;Alijo;41,276781;-7,474883;Vila Real;minor;Nao;Nao
+73;Monchique;37,317748;-8,555294;Faro;minor;Nao;Nao
+74;Cabeceiras de Basto;41,514312;-7,989415;Braga;minor;Nao;Nao
+75;Aljezur;37,319152;-8,803305;Faro;minor;Nao;Nao
+76;Castanheira de Pera;40,007169;-8,210484;Leiria;minor;Nao;Nao
+77;Melgaco;42,113371;-8,260161;Viana do Castelo;minor;Nao;Nao
+78;Gaviao;39,464431;-7,934494;Portalegre;minor;Nao;Nao
+79;Monforte;39,053297;-7,437582;Portalegre;minor;Nao;Nao
+80;Vila Vicosa;38,777696;-7,417927;evora;minor;Nao;Nao
+81;Almodovar;37,512792;-8,060077;Beja;minor;Nao;Nao
+82;Redondo;38,648716;-7,547082;evora;minor;Nao;Nao
+83;Vila Nova de Cerveira;41,941184;-8,742304;Viana do Castelo;minor;Nao;Nao
+84;Mafra;38,937933;-9,327565;Lisboa;minor;Sim;Nao
+85;Lousa;40,111911;-8,24703;Coimbra;minor;Nao;Nao
+86;Amadora;38,759711;-9,239708;Lisboa;minor;Nao;Nao
+87;Pinhel;40,774029;-7,06675;Guarda;minor;Nao;Nao
+88;Estremoz;38,844316;-7,585854;evora;minor;Nao;Nao
+89;Penamacor;40,168946;-7,169867;Castelo Branco;minor;Nao;Nao
+90;Penalva do Castelo;40,676273;-7,698391;Viseu;minor;Nao;Nao
+91;Crato;39,287571;-7,645494;Portalegre;minor;Nao;Nao
+92;Nelas;40,532157;-7,851525;Viseu;minor;Nao;Nao
+93;Aljustrel;37,877594;-8,165159;Beja;minor;Nao;Nao
+94;Esposende;41,536098;-8,782011;Braga;minor;Nao;Nao
+95;Alcochete;38,755335;-8,960861;Setubal;minor;Nao;Nao
+96;Sever do Vouga;40,734588;-8,367219;Aveiro;minor;Nao;Nao
+97;Sesimbra;38,444513;-9,101236;Setubal;minor;Nao;Nao
+98;Sao Pedro do Sul;40,75537;-8,072646;Viseu;minor;Nao;Nao
+99;Lourinha;39,233333;-9,316667;Lisboa;minor;Nao;Nao
+100;Santa Comba Dao;40,398559;-8,131601;Viseu;minor;Nao;Nao
+101;Entroncamento;39,466667;-8,466667;Santarem;minor;Nao;Nao
+102;Armamar;41,107646;-7,691386;Viseu;minor;Nao;Nao
+103;Arcos de Valdevez;41,848912;-8,410905;Viana do Castelo;minor;Nao;Nao
+104;Pacos de Ferreira;41,276571;-8,376174;Porto;minor;Nao;Nao
+105;Fafe;41,454227;-8,167998;Braga;minor;Nao;Nao
+106;Ponte de Sor;39,249642;-8,010086;Portalegre;minor;Nao;Nao
+107;Moimenta da Beira;40,983828;-7,617653;Viseu;minor;Nao;Nao
+108;Santa Marta de Penaguiao;41,211161;-7,800111;Vila Real;minor;Nao;Nao
+109;Murca;41,405997;-7,454846;Vila Real;minor;Nao;Nao
+110;Sernancelhe;40,898706;-7,493419;Viseu;minor;Nao;Nao
+111;Vila Real;41,30062;-7,744129;Vila Real;admin;Nao;Nao
+112;Vinhais;41,835094;-7,005007;Braganca;minor;Nao;Nao
+113;Alcacer do Sal;38,373258;-8,514436;Setubal;minor;Nao;Nao
+114;Ourem;39,641675;-8,591899;Santarem;minor;Nao;Nao
+115;Vila Nova de Gaia;41,133633;-8,617421;Porto;minor;Nao;Nao
+116;Castelo de Vide;39,414713;-7,454021;Portalegre;minor;Nao;Nao
+117;Vila Nova da Barquinha;39,45;-8,433333;Santarem;minor;Nao;Nao
+118;Loule;37,137722;-8,019684;Faro;minor;Nao;Nao
+119;Lamego;41,097407;-7,809907;Viseu;minor;Nao;Nao
+120;Alvaiazere;39,822559;-8,379994;Leiria;minor;Nao;Nao
+121;Satao;40,741775;-7,732855;Viseu;minor;Nao;Nao
+122;Albergaria-a-Velha;40,693185;-8,479936;Aveiro;minor;Nao;Nao
+123;Matosinhos;41,18207;-8,689076;Porto;minor;Nao;Sim
+124;Alandroal;38,702005;-7,403094;evora;minor;Nao;Nao
+125;Proenca-a-Nova;39,752204;-7,923903;Castelo Branco;minor;Nao;Nao
+126;Lagoa;37,135349;-8,453188;Faro;minor;Nao;Nao
+127;Montijo;38,706747;-8,973885;Setubal;minor;Nao;Nao
+128;Felgueiras;41,368058;-8,193961;Porto;minor;Nao;Nao
+129;Nazare;39,602891;-9,068355;Leiria;minor;Nao;Nao
+130;Miranda do Corvo;40,09318;-8,332608;Coimbra;minor;Nao;Nao
+131;Penedono;40,988749;-7,393859;Viseu;minor;Nao;Nao
+132;Vale de Cambra;40,849701;-8,393892;Aveiro;minor;Nao;Nao
+133;Vila Flor;41,309043;-7,153784;Braganca;minor;Nao;Nao
+134;Figueiro dos Vinhos;39,904132;-8,275107;Leiria;minor;Nao;Nao
+135;Santiago do Cacem;38,016935;-8,69475;Setubal;minor;Nao;Nao
+136;Trofa;41,322784;-8,572016;Porto;minor;Nao;Nao
+137;Penafiel;41,208348;-8,282847;Porto;minor;Nao;Nao
+138;Penacova;40,268837;-8,282374;Coimbra;minor;Nao;Nao
+139;Pedrogao Grande;39,918345;-8,1459;Leiria;minor;Nao;Nao
+140;Oleiros;39,918934;-7,913698;Castelo Branco;minor;Nao;Nao
+141;Sousel;38,952894;-7,675286;Portalegre;minor;Nao;Nao
+142;Arraiolos;38,723626;-7,984777;evora;minor;Nao;Nao
+143;Poiares;40,210256;-8,257464;Coimbra;minor;Nao;Nao
+144;Famalicao;41,407967;-8,51978;Braga;minor;Nao;Nao
+145;Vila Verde;41,647294;-8,43715;Braga;minor;Nao;Nao
+146;Terras de Bouro;41,717691;-8,30888;Braga;minor;Nao;Nao
+147;Manteigas;40,402799;-7,539769;Guarda;minor;Nao;Nao
+148;Sintra;38,800971;-9,378257;Lisboa;minor;sim;Nao
+149;Vizela;41,390962;-8,263888;Braga;minor;Nao;Nao
+150;Vila Velha de Rodao;39,666667;-7,7;Castelo Branco;minor;Nao;Nao
+151;Benavente;38,979192;-8,807591;Santarem;minor;Nao;Nao
+152;Maia;41,235739;-8,619897;Porto;minor;Nao;Nao
+153;Santo Tirso;41,342567;-8,477456;Porto;minor;Nao;Nao
+154;Oeiras;38,691049;-9,310847;Lisboa;minor;Nao;Nao
+155;Celorico de Basto;41,387141;-8,00101;Braga;minor;Nao;Nao
+156;Bombarral;39,267231;-9,157952;Leiria;minor;Nao;Nao
+157;Barreiro;38,663137;-9,072395;Setubal;minor;Nao;Nao
+158;Belmonte;40,359303;-7,34869;Castelo Branco;minor;Nao;Nao
+159;Montemor-o-Velho;40,172873;-8,686162;Coimbra;minor;Nao;Nao
+160;Espinho;41,007628;-8,641251;Aveiro;minor;Nao;Nao
+161;Oliveira do Hospital;40,361796;-7,86014;Coimbra;minor;Nao;Nao
+162;Oliveira de Frades;40,733567;-8,174807;Viseu;minor;Nao;Nao
+163;Oliveira de Azemeis;40,84101;-8,475554;Aveiro;minor;Nao;Sim
+164;Oliveira do Bairro;40,514596;-8,493858;Aveiro;minor;Nao;Nao
+165;Viana do Alentejo;38,33458;-8,004399;evora;minor;Nao;Nao
+166;Carrazeda de Anciaes;41,242466;-7,307206;Braganca;minor;Nao;Nao
+167;Ovar;40,861753;-8,626014;Aveiro;minor;Nao;Sim
+168;Torres Novas;39,481143;-8,539493;Santarem;minor;Nao;Nao
+169;Torres Vedras;39,091089;-9,258602;Lisboa;minor;Nao;Nao
+170;Cartaxo;39,160221;-8,787408;Santarem;minor;Nao;Nao
+171;Mangualde;40,604248;-7,76115;Viseu;minor;Nao;Nao
+172;Vila Nova de Paiva;40,852907;-7,727911;Viseu;minor;Nao;Nao
+173;Paredes;41,204853;-8,33147;Porto;minor;Nao;Nao
+174;Vidigueira;38,209949;-7,800504;Beja;minor;Nao;Nao
+175;Chamusca;39,35722;-8,48151;Santarem;minor;Nao;Nao
+176;Trofa;41,487817;-7,961286;Braga;minor;Nao;Nao
+177;Macedo de Cavaleiros;41,538161;-6,9611;Braganca;minor;Nao;Nao
+178;Resende;41,105822;-7,966497;Viseu;minor;Nao;Nao
+179;Povoa de Lanhoso;41,577713;-8,268468;Braga;minor;Nao;Nao
+180;Feira;40,925348;-8,542769;Aveiro;minor;Nao;Nao
+181;Azambuja;39,07029;-8,86822;Lisboa;minor;Nao;Nao
+182;Vieira do Minho;41,632923;-8,142521;Braga;minor;Nao;Nao
+183;Batalha;39,660252;-8,824751;Leiria;minor;Sim;Nao
+184;Alcanena;39,459005;-8,668924;Santarem;minor;Nao;Nao
+185;Palmela;38,569021;-8,901255;Setubal;minor;Nao;Nao
+186;Ferreira do Zezere;39,694064;-8,292131;Santarem;minor;Nao;Nao
+187;Arouca;40,930568;-8,24488;Aveiro;minor;Nao;Nao
+188;Vila de Rei;39,67604;-8,145768;Castelo Branco;minor;Nao;Nao
+189;Tomar;39,601987;-8,409242;Santarem;minor;sim;Nao
+190;Tondela;40,516815;-8,080866;Viseu;minor;Nao;Nao
+191;Constancia;39,466667;-8,333333;Santarem;minor;Nao;Nao
+192;Vila Pouca de Aguiar;41,500176;-7,64383;Vila Real;minor;Nao;Nao
+193;Almada;38,679018;-9,156904;Setubal;minor;Nao;Nao
+194;Almeida;40,725672;-6,906137;Guarda;minor;Nao;Nao
+195;Alvito;38,256109;-7,991584;Beja;minor;Nao;Nao
+196;Soure;40,05989;-8,626053;Coimbra;minor;Nao;Nao
+197;Alenquer;39,053151;-9,009282;Lisboa;minor;Nao;Nao
+198;Mertola;37,643041;-7,661104;Beja;minor;Nao;Nao
+199;Mesao Frio;41,163167;-7,873534;Vila Real;minor;Nao;Nao
+200;Mourao;38,383562;-7,341888;evora;minor;Nao;Nao
+201;Valpacos;41,607461;-7,310876;Vila Real;minor;Nao;Nao
+202;Pombal;39,916738;-8,628474;Leiria;minor;Nao;Nao
+203;Mogadouro;41,340203;-6,711347;Braganca;minor;Nao;Nao
+204;Povoa de Varzim;41,38344;-8,763637;Porto;minor;Nao;Sim
+205;Baiao;41,162735;-8,034704;Porto;minor;Nao;Nao
+206;Mortagua;40,396746;-8,232341;Viseu;minor;Nao;Nao
+207;Tabua;40,362074;-8,02936;Coimbra;minor;Nao;Nao
+208;Cascais;38,69745;-9,423141;Lisboa;minor;Nao;Nao
+209;Barcelos;41,538763;-8,615053;Braga;minor;Nao;Nao
+210;Boticas;41,689874;-7,665938;Vila Real;minor;Nao;Nao
+211;Sabrosa;41,267017;-7,576007;Vila Real;minor;Nao;Nao
+212;Montalegre;41,823569;-7,789714;Vila Real;minor;Nao;Nao
+213;Gondomar;41,144536;-8,532229;Porto;minor;Nao;Nao
+214;Freixo de Espada a Cinta;41,090327;-6,806478;Braganca;minor;Nao;Nao
+215;Mora;38,943515;-8,164337;evora;minor;Nao;Nao
+216;Vendas Novas;38,677056;-8,457924;evora;minor;Nao;Nao
+217;Vila Nova de Foz Coa;41,083333;-7,2;Guarda;minor;Nao;Nao
+218;Caldas da Rainha;39,403255;-9,138387;Leiria;minor;Nao;Nao
+219;Marvao;39,393912;-7,376861;Portalegre;minor;Nao;Nao
+220;Vimioso;41,584726;-6,52767;Braganca;minor;Nao;Nao
+221;Odivelas;38,795234;-9,187387;Lisboa;minor;Nao;Nao
+222;Odemira;37,598106;-8,638886;Beja;minor;Nao;Nao
+223;Peniche;39,357486;-9,380439;Leiria;minor;Nao;Nao
+224;Vagos;40,555998;-8,68175;Aveiro;minor;Nao;Nao
+225;Marco de Canavezes;41,183887;-8,148641;Porto;minor;Nao;Sim
+226;Coruche;38,959546;-8,525235;Santarem;minor;Nao;Nao
+227;Coimbra;40,205642;-8,419551;Coimbra;admin;Sim;Nao
+228;Barrancos;38,134462;-6,976042;Beja;minor;Nao;Nao
+229;Montemor-o-Novo;38,648117;-8,214549;evora;minor;Nao;Nao
+230;Meda;40,966352;-7,261634;Guarda;minor;Nao;Nao
+231;obidos;39,360551;-9,156696;Leiria;minor;Nao;Nao
+232;Gois;40,157353;-8,110067;Coimbra;minor;Nao;Nao
+233;Reguengos de Monsaraz;38,425293;-7,534945;evora;minor;Nao;Nao
+234;Torre de Moncorvo;41,174537;-7,05364;Braganca;minor;Nao;Nao
+235;Murtosa;40,736948;-8,637697;Aveiro;minor;Nao;Nao
+236;Alcobaca;39,552233;-8,977495;Leiria;minor;Sim;Nao
+237;Figueira da Foz;40,150852;-8,861786;Coimbra;minor;Nao;Nao
+238;Figueira de Castelo Rodrigo;40,892619;-6,963502;Guarda;minor;Nao;Nao
+239;Abrantes;39,466667;-8,2;Santarem;minor;Nao;Nao
+240;Arruda dos Vinhos;38,984106;-9,077463;Lisboa;minor;Nao;Nao
+241;Fundao;40,140247;-7,501348;Castelo Branco;minor;Nao;Nao
+242;Tarouca;41,014444;-7,781432;Viseu;minor;Nao;Nao
+243;ilhavo;40,599896;-8,667325;Aveiro;minor;Nao;Nao
+244;Alpiarca;39,257116;-8,581866;Santarem;minor;Nao;Nao
+245;Albufeira;37,090205;-8,25079;Faro;minor;Nao;Nao
+246;Penela;40,033333;-8,383333;Coimbra;minor;Nao;Nao
+247;Valenca;42,03104;-8,645953;Viana do Castelo;minor;Nao;Nao
+248;Amares;41,630907;-8,351166;Braga;minor;Nao;Nao
+249;Sao Bras de Alportel;37,1531;-7,887515;Faro;minor;Nao;Nao
+250;Pampilhosa da Serra;40,046198;-7,951824;Coimbra;minor;Nao;Nao
+251;Tavira;37,127338;-7,648609;Faro;minor;Nao;Nao
+252;Nisa;39,514989;-7,649077;Portalegre;minor;Nao;Nao
+253;Alter do Chao;39,198712;-7,658298;Portalegre;minor;Nao;Nao
+254;Castro Verde;37,698282;-8,085812;Beja;minor;Nao;Nao
+255;Mealhada;40,378063;-8,449912;Aveiro;minor;Nao;Nao
+256;Cuba;38,165436;-7,892402;Beja;minor;Nao;Nao
+257;Vouzela;40,723613;-8,112833;Viseu;minor;Nao;Nao
+258;Vila Franca de Xira;38,955249;-8,98966;Lisboa;minor;Nao;Nao
+259;Marinha Grande;39,747691;-8,932284;Leiria;minor;Nao;Nao
+260;Cinfaes;41,071969;-8,089991;Viseu;minor;Nao;Nao
+261;Borba;38,80553;-7,45465;evora;minor;Nao;Nao
+262;Mira;40,428924;-8,737462;Coimbra;minor;Nao;Nao
+263;Silves;37,189213;-8,438217;Faro;minor;Nao;Sim
+264;Grandola;38,177181;-8,566746;Setubal;minor;Nao;Sim
+265;Campo Maior;39,017742;-7,064967;Portalegre;minor;Nao;Sim
+266;Ferreira do Alentejo;38,05;-8,033333;Beja;minor;Nao;Nao
+267;Miranda do Douro;41,496921;-6,273077;Braganca;minor;Nao;Nao
+268;Mirandela;41,487385;-7,186949;Braganca;minor;Nao;Nao
+269;Chaves;41,740186;-7,468789;Vila Real;minor;Nao;Nao
+270;Sines;37,956215;-8,869788;Setubal;minor;Nao;Nao
+271;Mondim de Basto;41,411566;-7,954414;Vila Real;minor;Nao;Nao
+272;Moncao;42,078471;-8,481452;Viana do Castelo;minor;Nao;Nao
+273;Castro Marim;37,220683;-7,4435;Faro;minor;Nao;Nao
+274;Castro Daire;40,898399;-7,933805;Viseu;minor;Nao;Nao
+275;Arganil;40,218261;-8,054029;Coimbra;minor;Nao;Nao
+276;Olhao;37,0286;-7,841101;Faro;minor;Nao;Nao
+277;Cadaval;39,242977;-9,103271;Lisboa;minor;Nao;Nao
+278;Loures;38,829082;-9,168106;Lisboa;minor;Nao;Nao
+279;Salvaterra de Magos;39,027881;-8,793502;Santarem;minor;Nao;Nao
+280;Peso da Regua;41,164912;-7,787034;Vila Real;minor;Nao;Nao
+281;Serpa;37,945811;-7,597537;Beja;minor;Nao;Nao
+282;Sabugal;40,351267;-7,091036;Guarda;minor;Nao;Nao
+283;Ansiao;39,911774;-8,435683;Leiria;minor;Nao;Nao
+284;Vila Real de Santo Antonio;37,194999;-7,417658;Faro;minor;Nao;Nao
+285;Porto de Mos;39,601911;-8,818389;Leiria;minor;Nao;Nao
